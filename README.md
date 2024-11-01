@@ -1,2 +1,2 @@
 # DEPI
-repo for depi 
+repo for data science projects
